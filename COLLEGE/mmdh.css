@@ -1,0 +1,5 @@
+var nn= document.querySelector("#nav")
+var mme= document.querySelector("#menu")
+mme.addEventListener("click",function(){
+    nn.style.color = "white"
+})
